@@ -1,0 +1,48 @@
+body{
+    background-image: url(../img/barbecue.jpg);
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.navbar {
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+}
+.nav-item {
+    padding: 20px;
+    font-size: 18px;
+    color: white;
+}
+
+h5{
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+    color: white;
+}
+
+#burgers{
+    margin-bottom: 10px;
+}
+
+#sides{
+    margin-top: 10px;
+}
+
+.orderForm, .category{
+    color: white;
+    font-size: 16px;
+    text-align: left;
+}
+
+.btn{
+    background-color: #79797a;
+}
+
+#menus{
+    padding-bottom: 20px;
+}
